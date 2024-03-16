@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 太阳能、风力发电大规模应用的思考
-created: '2024-03-05T11:49:03.520Z'
-modified: '2024-03-15T11:10:13.610Z'
-categories: 【Excel】
+categories: Excel
 description: 太阳能风力发电大规模应用会带来的问题。
 keywords: 储能，太阳能，风力发电
----
+-----
+
 
 
 # **太阳能、风力发电**大规模应用的思考20240307
