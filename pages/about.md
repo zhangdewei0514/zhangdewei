@@ -37,7 +37,7 @@ sony电纸书刷机直接看epub电子书（用软件转换后）
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="张德伟" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpeg" alt="张德伟" />
 </li>
 {% endif %}
 </ul>
