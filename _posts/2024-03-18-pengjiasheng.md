@@ -6,9 +6,11 @@ description: 从彭家声的葬礼联想到的一些事。
 keywords: 彭家声，中华传统，葬礼
 ---
 # 果敢王彭家声的葬礼
-![葬礼](http://www.mmgpmedia.com/image/2022-03-30/958822879145889792.640?wx_fmt=jpeg)
+![](/images/shuibi/pjs1.jpg)
+![](/images/shuibi/pjs2.jpg)
+![](/images/shuibi/pjs3.jpg)
 
-<iframe src="//player.bilibili.com/player.html?aid=7360943b3096a540bc9c71392e755350&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=7360943b3096a540bc9c71392e755350" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 [果敢民族领袖彭家声主席丧礼链接] (https://www.bilibili.com/video/BV1P94y1H7th/?share_source=copy_web&vd_source=7360943b3096a540bc9c71392e755350)
 
 看完视频我有些想法，在视频中我看到了一代枭雄最终归于沉寂，波澜壮阔、诡谲云波的一生到了最终告别的时候，仿佛一部大戏终于落下帷幕，而逝者还不知其身后数月又将上演一出城头变幻大王旗，其子重夺江山，手刃仇人，为父报仇，重振江山的大戏。我自幼对具体的兵器知识不感兴趣，而对这种政治斗争，军阀混战的过程很感兴趣。在现如今还有哪里有缅甸这样更具戏剧性的地方呢？各种势力盘根错节，勾心斗角，此消彼长，正是一部现实的历史争霸剧。
@@ -19,6 +21,7 @@ keywords: 彭家声，中华传统，葬礼
 
 葬礼上一句话令我哽咽。
 > -父母在，人生尚有来处。父母去，人生只剩归途！
+
 这是其女儿在悼词中深情说出的，数度哽咽。
 中华文化以孝治天下，果敢地区仍然很好的保留了中华文明的传统。
 我们知道中国大陆地区经历了轰轰烈烈的新文化运动、马克思列宁主义的教育，但处于缅甸的华人地区受这些运动的影响较小，因此看葬礼感觉比大陆大部分地区还要传统、讲究。
