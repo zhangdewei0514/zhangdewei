@@ -5,8 +5,7 @@ categories: 随想
 description: 从彭家声的葬礼联想到的一些事。
 keywords: 彭家声，中华传统，葬礼
 ---
-# 本周分享20240318
-## 果敢王彭家声的葬礼
+# 果敢王彭家声的葬礼
 ![葬礼](http://www.mmgpmedia.com/image/2022-03-30/958822879145889792.640?wx_fmt=jpeg)
 
 <iframe src="//player.bilibili.com/player.html?aid=7360943b3096a540bc9c71392e755350&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
