@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 果敢王彭家声的葬礼
-categories: 随想
+categories: 随笔
 description: 从彭家声的葬礼联想到的一些事。
 keywords: 彭家声，中华传统，葬礼
 ---
