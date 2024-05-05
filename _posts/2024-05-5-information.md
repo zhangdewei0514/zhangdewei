@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的信息源
-categories: 随想
+categories: 随笔
 description: 一个人的信息源质量决定了这个人的认知水平。
 keywords: 信息源，认知，关注的博客
 ---
